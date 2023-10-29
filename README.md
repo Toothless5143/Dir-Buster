@@ -8,10 +8,10 @@ Dir Buster is a Python-based command-line tool designed to discover hidden direc
    pip install requests
    ```
 3. Download or clone the Simple Directory Buster tool from the GitHub repository.
-  ```
-  git clone https://github.com/Toothless5143/Dir-Buster.git
-  cd Dir-Buster
-  ```
+   ```
+   git clone https://github.com/Toothless5143/Dir-Buster.git
+   cd Dir-Buster
+   ```
 
 # Usage:
 1. Open a terminal or command prompt.
