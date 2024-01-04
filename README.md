@@ -23,7 +23,7 @@ Dir Buster is a Python-based command-line tool designed to discover hidden direc
    Replace `<target_url>` with the URL of the website you want to scan and `<wordlist_file>` with the path to your wordlist file.
 4. The tool will systematically test each directory name from the wordlist against the target URL and display any discovered directories.
 
-Features:
+# Features:
 1. Command-line Interface: The tool provides a simple command-line interface to specify the target URL and wordlist file.
 2. Customization: Users can easily modify the target URL and wordlist file without modifying the script itself.
 3. Wordlist-based Testing: The tool tests a list of common directory names from the wordlist file, allowing users to easily customize and expand the list as needed.
